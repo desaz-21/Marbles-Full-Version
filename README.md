@@ -240,4 +240,4 @@ This repository serves as the official landing page for Marbles. The software is
 **Get the most recent version of Marbles today!**
 
 ---
-**Last updated:** 2026-10-18 14:28:03 UTC
+**Last updated:** 2026-10-18 17:58:59 UTC
